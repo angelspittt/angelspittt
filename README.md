@@ -1,7 +1,9 @@
 # `angelspittt`
-aka tess / 74ミ / thermia
+tess / 74ミ / thermia
 
-A passionate infrastructure seamstress. Beloved child has many names, currently working on:
+infrastructure seamstress, friendly neighborhood networking doll 
+
+## currently working on:
 | | url | description | 88x31|
 |-|-----|-------------|------|
 |porcelain.host|[https://porcelain.host](https://porcelain.host) | communal infrastructure host | [<img src="https://porcelain.host/img/porcelain-host.png" width=176 height=62 />](https://porcelain.host)|
